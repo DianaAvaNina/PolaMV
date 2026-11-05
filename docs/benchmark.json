@@ -1,0 +1,37 @@
+{
+  "platform": "Windows-10-10.0.19045-SP0",
+  "python": "3.13.5",
+  "resolution": [
+    2448,
+    2048
+  ],
+  "bits": 12,
+  "includes": "interpolation, polarization and all five full histograms; excludes camera, display and disk",
+  "results": [
+    {
+      "threads": 1,
+      "median_ms": 223.99009997025132,
+      "processing_fps": 4.46448302908393
+    },
+    {
+      "threads": 2,
+      "median_ms": 123.32959997002035,
+      "processing_fps": 8.108353552132542
+    },
+    {
+      "threads": 4,
+      "median_ms": 67.73810001323,
+      "processing_fps": 14.76274061133526
+    },
+    {
+      "threads": 8,
+      "median_ms": 48.82594995433465,
+      "processing_fps": 20.480912320912715
+    },
+    {
+      "threads": 16,
+      "median_ms": 36.48549999343231,
+      "processing_fps": 27.408148447465653
+    }
+  ]
+}

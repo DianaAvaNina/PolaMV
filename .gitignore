@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+build/
+dist/
+captures/
+*.log
+release/
+hardware-validation/
+.env
+.env.*
+!.env.example

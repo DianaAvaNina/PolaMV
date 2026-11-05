@@ -1,0 +1,49 @@
+{
+  "ok": true,
+  "sdk_devices": [],
+  "sdk_loaded": true,
+  "sdk_module_audit": {
+    "core_and_usb_bundled": true,
+    "external_mvs_modules": [],
+    "modules": [
+      "G:\\A科研\\PolaMV\\build\\offline-extracted\\PolaMV Studio\\_internal\\svml_dispmd.DLL",
+      "G:\\A科研\\PolaMV\\build\\offline-extracted\\PolaMV Studio\\_internal\\vendor\\Runtime\\Win64_x64\\MvCameraControl.dll",
+      "G:\\A科研\\PolaMV\\build\\offline-extracted\\PolaMV Studio\\_internal\\vendor\\Runtime\\Win64_x64\\GCBase_MD_VC120_v3_0_MV.dll",
+      "G:\\A科研\\PolaMV\\build\\offline-extracted\\PolaMV Studio\\_internal\\vendor\\Runtime\\Win64_x64\\GenApi_MD_VC120_v3_0_MV.dll",
+      "G:\\A科研\\PolaMV\\build\\offline-extracted\\PolaMV Studio\\_internal\\vendor\\Runtime\\Win64_x64\\MvRender.dll",
+      "G:\\A科研\\PolaMV\\build\\offline-extracted\\PolaMV Studio\\_internal\\vendor\\Runtime\\Win64_x64\\MathParser_MD_VC120_v3_0_MV.dll",
+      "G:\\A科研\\PolaMV\\build\\offline-extracted\\PolaMV Studio\\_internal\\vendor\\Runtime\\Win64_x64\\MSVCP120.dll",
+      "G:\\A科研\\PolaMV\\build\\offline-extracted\\PolaMV Studio\\_internal\\vendor\\Runtime\\Win64_x64\\MSVCR120.dll",
+      "G:\\A科研\\PolaMV\\build\\offline-extracted\\PolaMV Studio\\_internal\\vendor\\Runtime\\Win64_x64\\Log_MD_VC120_v3_0_MV.dll",
+      "G:\\A科研\\PolaMV\\build\\offline-extracted\\PolaMV Studio\\_internal\\vendor\\Runtime\\Win64_x64\\XmlParser_MD_VC120_v3_0_MV.dll",
+      "G:\\A科研\\PolaMV\\build\\offline-extracted\\PolaMV Studio\\_internal\\vendor\\Runtime\\Win64_x64\\NodeMapData_MD_VC120_v3_0_MV.dll",
+      "G:\\A科研\\PolaMV\\build\\offline-extracted\\PolaMV Studio\\_internal\\vendor\\Runtime\\Win64_x64\\log4cpp_MD_VC120_v3_0_MV.dll",
+      "G:\\A科研\\PolaMV\\build\\offline-extracted\\PolaMV Studio\\_internal\\vendor\\Runtime\\Win64_x64\\MvUsb3vTL.dll",
+      "G:\\A科研\\PolaMV\\build\\offline-extracted\\PolaMV Studio\\_internal\\vendor\\Runtime\\Win64_x64\\libusb0.dll",
+      "G:\\A科研\\PolaMV\\build\\offline-extracted\\PolaMV Studio\\_internal\\vendor\\Runtime\\Win64_x64\\FormatConversion.dll",
+      "C:\\WINDOWS\\WinSxS\\amd64_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.9625_none_08e1c10da83fbc83\\MSVCR90.dll",
+      "G:\\A科研\\PolaMV\\build\\offline-extracted\\PolaMV Studio\\_internal\\vendor\\Runtime\\Win64_x64\\libmmd.dll",
+      "G:\\A科研\\PolaMV\\build\\offline-extracted\\PolaMV Studio\\_internal\\MvCameraControl.dll",
+      "G:\\A科研\\PolaMV\\build\\offline-extracted\\PolaMV Studio\\_internal\\vendor\\Runtime\\Win64_x64\\MediaProcess.dll",
+      "G:\\A科研\\PolaMV\\build\\offline-extracted\\PolaMV Studio\\_internal\\vendor\\Runtime\\Win64_x64\\pthreadVC2.dll",
+      "G:\\A科研\\PolaMV\\build\\offline-extracted\\PolaMV Studio\\_internal\\vendor\\Runtime\\Win64_x64\\swscale-6.dll",
+      "G:\\A科研\\PolaMV\\build\\offline-extracted\\PolaMV Studio\\_internal\\vendor\\Runtime\\Win64_x64\\MSVCR100.dll",
+      "G:\\A科研\\PolaMV\\build\\offline-extracted\\PolaMV Studio\\_internal\\vendor\\Runtime\\Win64_x64\\avutil-57.dll",
+      "G:\\A科研\\PolaMV\\build\\offline-extracted\\PolaMV Studio\\_internal\\vendor\\Runtime\\Win64_x64\\libwinpthread-1.dll",
+      "G:\\A科研\\PolaMV\\build\\offline-extracted\\PolaMV Studio\\_internal\\vendor\\Runtime\\Win64_x64\\SuperRender.dll",
+      "G:\\A科研\\PolaMV\\build\\offline-extracted\\PolaMV Studio\\_internal\\d3dx9_43.dll",
+      "G:\\A科研\\PolaMV\\build\\offline-extracted\\PolaMV Studio\\_internal\\vendor\\Runtime\\Win64_x64\\MVGigEVisionSDK.dll",
+      "G:\\A科研\\PolaMV\\build\\offline-extracted\\PolaMV Studio\\_internal\\vendor\\Runtime\\Win64_x64\\MvProducerVIR.dll"
+    ]
+  },
+  "usb_driver_files": [
+    "mvu3v.inf",
+    "mvu3v.cat",
+    "mvu3v.sys",
+    "WdfCoInstaller01011.dll"
+  ],
+  "shape": [
+    200,
+    240
+  ]
+}

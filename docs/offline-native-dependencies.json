@@ -1,0 +1,5 @@
+{
+  "checked_pe_files": 237,
+  "missing_static_dependencies": {},
+  "scope": "Static PE imports; Windows API sets assumed supplied by supported Windows; not a clean-OS or hardware test"
+}
